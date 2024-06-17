@@ -37,6 +37,27 @@
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=GbCderr14&" alt="GbCderr14" /></p>
 
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=GbCderr14" alt="GbCderr14" /></a>
+  <br>
+  <img src="https://user-images.githubusercontent.com/114583978/236886703-44cf836c-caef-4cfa-b810-7f7397c9a93b.svg" />
+</p>
+
+##  🔝 &nbsp;Top Contributed Repo  
+
+<p >
+  <a align="left">
+    <img src="https://github-contributor-stats.vercel.app/api?username=GbCderr14&limit=4&theme=dark&combine_all_yearly_contributions=true" alt="Top Contributed Repo"/>
+  </a>
+<!--   &nbsp;&nbsp;
+  <a align="right">
+    <p>✍️ &nbsp;Random Dev Quote</p>
+    <img align="right" src="https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical" alt="Random Dev Quote"/>
+  </a> -->
+</p>
+
  ## 🤝🏻 &nbsp;Connect with Me
 
 <a href="https://www.linkedin.com/in/gaurang-bhutani-009752250/" target="_blank" title="LinkedIn">
